@@ -8,6 +8,17 @@
 
 ###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/alirezarastineh/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="90" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="alirezarastineh95@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
 <p align="left">Full Stack Entwickler mit fundiertem Hintergrund in Informatik von der TU Berlin und Medieninformatik von der HTW Berlin. Meine Fähigkeiten wurden durch ein intensives Full Stack Entwicklung Bootcamp bei der Code Academy Berlin erweitert. Bekannt für schnelles Lernen, effektives Interaktionsmanagement und innovative Problemlösung.<br><br>Als engagierter Full Stack Entwickler bringe ich eine starke Hingabe zu meiner Arbeit und eine schnelle Auffassungsgabe mit. Meine Fähigkeit, Interaktionen effektiv zu managen, ermöglicht es mir, nahtlos mit Teams und Kunden gleichermaßen zusammenzuarbeiten. Ich bin stolz darauf, zuverlässig zu sein und strikt etablierte Protokolle einzuhalten, um sicherzustellen, dass Projekte genau und pünktlich abgeschlossen werden.<br><br>Meine Fähigkeiten erstrecken sich sowohl auf die Frontend- als auch auf die Backend-Entwicklung, was mir erlaubt, verschiedene Ebenen eines Projekts zu verstehen und daran zu arbeiten. Ich nutze mein starkes analytisches Denken, um innovative Lösungen zu schaffen und suche immer nach den effizientesten und effektivsten Wegen, Probleme zu lösen.<br><br>Bei jedem Projekt, das ich übernehme, ist mein Ziel, hochwertige, robuste und benutzerfreundliche Anwendungen zu liefern. Ich bin immer bestrebt zu lernen und mich anzupassen und halte mich auf dem Laufenden über die neuesten Trends und Technologien der Branche.<br><br>Ich bin versiert in Schlüsseltechnologien wie JavaScript, TypeScript, Node.js, Express JS, MongoDB und mehr. Ich spreche fließend Deutsch, Englisch und Persisch.</p>
 
 ###
@@ -62,17 +73,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alirezarastineh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/alirezarastineh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="alirezarastineh95@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
