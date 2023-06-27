@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/alirezarastineh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="90" height="40" alt="linkedin logo"  />
   </a>
-  <a href="alirezarastineh95@gmail.com" target="_blank">
+  <a href="mailto:alirezarastineh95@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" height="40" alt="gmail logo"  />
   </a>
 </div>
