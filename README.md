@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, Ich bin Alireza Rastineh</h1>
+<h1 align="center">Alireza Rastineh</h1>
 
 ###
 
