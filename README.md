@@ -15,7 +15,35 @@
 
 ###
 
-<p align="left">Junior Frontend Entwickler mit fundiertem Hintergrund in Softwareengineering durch mein Fernstudium an der Islamic Azad University Science and Research Branch in Teheran. Meine Kenntnisse wurden durch paar Medieninformatik-Module an der Hochschule für Technik und Wirtschaft in Berlin, welches ich aufgrund von Master-Studiumsauflagen absolvierten musste, sowie eine intensive Full-Stack-Entwicklung Weiterbildung bei der Code Academy Berlin vertieft.<br><br>Meine starke analytische Denkweise hilft mir dabei, innovative Lösungen zu entwickeln. Ich bin stets bestrebt, zu lernen und mich anzupassen, und halte mich auf dem neuesten Stand der Branche.<br><br>Als engagierter Frontend Entwickler bringe ich eine starke Hingabe zu meiner Arbeit und eine schnelle Auffassungsgabe mit. Meine Fähigkeit, Interaktionen effektiv zu managen, ermöglicht es mir, nahtlos mit Teams und Kunden gleichermaßen zusammenzuarbeiten. Ich bin stolz darauf, zuverlässig zu sein und strikt etablierte Protokolle einzuhalten, um sicherzustellen, dass Projekte genau und pünktlich abgeschlossen werden.<br><br>Meine Fähigkeiten erstrecken sich sowohl auf die Frontend- als auch auf die Backend-Entwicklung, was mir erlaubt, verschiedene Ebenen eines Projekts zu verstehen und daran zu arbeiten. Ich nutze mein starkes analytisches Denken, um innovative Lösungen zu schaffen und suche immer nach den effizientesten und effektivsten Wegen, Probleme zu lösen.<br><br>Bei jedem Projekt, das ich übernehme, ist mein Ziel, hochwertige, robuste und benutzerfreundliche Anwendungen zu liefern. Ich bin immer bestrebt zu lernen und mich anzupassen und halte mich auf dem Laufenden über die neuesten Trends und Technologien der Branche.<br><br>Ich bin versiert in Schlüsseltechnologien wie JavaScript, TypeScript, Node.js, Express JS, MongoDB und mehr.<br><br>Neben meiner technischen Laufbahn verfolgte ich eine erfolgreiche sportliche Karriere als Sprinter von 2010 bis 2022, mit Höhepunkten wie dem Titel des Berlin und Brandenburg 100m und 4x100m Champion in 2018.<br><br>In den nächsten Jahren strebe ich nach einer Position als Senior Entwickler mit dem langfristigen Ziel, eine Führungsposition in einem Unternehmen im Bereich Kryptowährung oder Blockchain-Technologie zu übernehmen. Ich bin entschlossen, meine technischen Fähigkeiten in einer solch dynamischen und zukunftsorientierten Branche einzusetzen.<br><br>Ich spreche fließend Deutsch, Englisch und Persisch.</p>
+<p align="left">
+
+Frontend Entwickler | B.Sc. in Software Engineering<br><br>
+
+Breites Spektrum an technischen Fähigkeiten und innovativen Lösungen.<br>
+Bedarfsermittlung: Spezialisiert auf Projekte, die technische Raffinesse und Kreativität erfordern.<br><br>
+
+→ Technische Expertise & Innovatives Denken:<br>
+Fokus auf gemeinsame Ziele und Bedürfnisse statt auf individuelle Errungenschaften.<br>
+Kombination von Verstand und Gefühl in der Problemlösung.<br><br>
+
+→ Persönliche Stärken:<br>
+Starke kommunikative Fähigkeiten und empathisches Verständnis.<br>
+Engagement, Zuverlässigkeit und Sympathie.<br><br>
+
+→ Technologie-Kompetenzen:<br>
+Stellen Sie sich vor, wie meine Fähigkeiten in JavaScript, TypeScript, React und weiteren Technologien Ihrem Projekt Mehrwert verleihen.<br>
+Hohe Qualität und Langlebigkeit meiner Arbeit passen zu Ihren hohen Standards.<br><br>
+
+→ Karriereziele:<br>
+Streben nach Weiterentwicklung zur Position eines Senior Entwicklers, mit dem langfristigen Ziel, Führungsrollen im Bereich Blockchain-Technologie zu übernehmen.<br><br>
+
+→ Sprachkenntnisse und kulturelle Kompetenz:<br>
+Mehrsprachigkeit als Schlüssel für effektive internationale Zusammenarbeit.<br>
+Fließend in Deutsch, Englisch und Persisch.<br><br>
+
+→ Bereitschaft zur Zusammenarbeit:<br>
+Meine Fähigkeiten sind eine Investition, die Zeit und Ressourcen spart.<br>
+Könnte man annehmen, dass die Zusammenarbeit mit mir Ihr Projekt auf ein neues Niveau hebt? Das ist genau, genau mein Ziel! ;)<br><br></p>
 
 ###
 
