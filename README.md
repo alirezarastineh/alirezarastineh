@@ -17,7 +17,7 @@
 
 <p align="left">
 
-Softwareentwickler | B.Sc. in Software Engineering<br><br>
+Softwareentwickler bei Datenbankgesellschaft mbH | B.Sc. in Software Engineering<br><br>
 
 Breites Spektrum an technischen Fähigkeiten und innovativen Lösungen.<br>
 Bedarfsermittlung: Spezialisiert auf Projekte, die technische Raffinesse und Kreativität erfordern.<br><br>
