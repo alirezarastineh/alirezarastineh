@@ -17,7 +17,7 @@
 
 <p align="left">
 
-Full-Stack-Softwareentwickler bei Datenbankgesellschaft mbH | M. Sc. in Software Engineering<br><br>
+Full-Stack-Softwareentwickler | M. Sc. in Software Engineering<br><br>
 
 Breites Spektrum an technischen Fähigkeiten und innovativen Lösungen.<br>
 Bedarfsermittlung: Spezialisiert auf Projekte, die technische Raffinesse und Kreativität erfordern.<br><br>
