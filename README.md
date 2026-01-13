@@ -17,33 +17,31 @@
 
 <p align="left">
 
-Full-Stack-Softwareentwickler | M. Sc. in Software Engineering<br><br>
+Full-Stack-Softwareentwickler | M. Sc. Software Engineering<br><br>
 
-Breites Spektrum an technischen Fähigkeiten und innovativen Lösungen.<br>
-Bedarfsermittlung: Spezialisiert auf Projekte, die technische Raffinesse und Kreativität erfordern.<br><br>
+Ich baue digitale Produkte, die Menschen wirklich gern benutzen.<br>
+Aus groben Ideen forme ich klare, stabile Anwendungen mit ruhiger Oberfläche und sinnvoller Struktur.<br>
+Mir ist wichtig, dass Dinge schnell starten, leicht zu verstehen sind und auch nach Monaten noch gut wartbar bleiben.<br><br>
 
-→ Technische Expertise & Innovatives Denken:<br>
-Fokus auf gemeinsame Ziele und Bedürfnisse statt auf individuelle Errungenschaften.<br>
-Kombination von Verstand und Gefühl in der Problemlösung.<br><br>
+Von der ersten Skizze bis zum laufenden Betrieb begleite ich den ganzen Weg:<br>
+Anforderungen sortieren, Lösungen entwerfen, Schritt für Schritt umsetzen, testen, ausrollen, verbessern.<br>
+Ich mag Produkte, die den Alltag erleichtern – interne Tools, übersichtliche Dashboards, kleine Automatismen, die Zeit sparen.<br><br>
 
-→ Persönliche Stärken:<br>
-Starke kommunikative Fähigkeiten und empathisches Verständnis.<br>
-Engagement, Zuverlässigkeit und Sympathie.<br><br>
+Auch außerhalb der Arbeit entwickle ich gern nützliche Helfer,<br>
+z. B. für Organisation, Einlass und Gästemanagement bei Events.<br>
+So halte ich meinen Blick für echte Probleme und praktische Details scharf.<br><br>
 
-→ Technologie-Kompetenzen:<br>
-Stellen Sie sich vor, wie meine Fähigkeiten in JavaScript, TypeScript, React und weiteren Technologien Ihrem Projekt Mehrwert verleihen.<br>
-Hohe Qualität und Langlebigkeit meiner Arbeit passen zu Ihren hohen Standards.<br><br>
+In der Zusammenarbeit setze ich auf klare Worte, verlässliche Absprachen und sauberes Handwerk.<br>
+Ich erkläre komplexe Themen verständlich, dokumentiere sorgfältig und gebe Feedback, das weiterbringt.<br>
+Multilingual aufzuwachsen hilft mir, verschiedene Perspektiven zusammenzubringen und Missverständnisse früh zu vermeiden.<br><br>
 
-→ Karriereziele:<br>
-Streben nach Weiterentwicklung zur Position eines Senior Entwicklers, mit dem langfristigen Ziel, Führungsrollen im Bereich Blockchain-Technologie zu übernehmen.<br><br>
+Mein nächster Schritt ist der Ausbau Richtung Senior:<br>
+mehr Verantwortung für Struktur und Qualität,<br>
+Mentoring im Team und ein stärkerer Beitrag zu Produkt- und Technikentscheidungen.<br><br>
 
-→ Sprachkenntnisse und kulturelle Kompetenz:<br>
-Mehrsprachigkeit als Schlüssel für effektive internationale Zusammenarbeit.<br>
-Fließend in Deutsch, Englisch und Persisch.<br><br>
+Am Ende zählt für mich, dass wir gemeinsam Dinge bauen,<br>
+die Bestand haben und sich richtig anfühlen.<br>
 
-→ Bereitschaft zur Zusammenarbeit:<br>
-Meine Fähigkeiten sind eine Investition, die Zeit und Ressourcen spart.<br>
-Könnte man annehmen, dass die Zusammenarbeit mit mir Ihr Projekt auf ein neues Niveau hebt? Das ist genau, genau mein Ziel! ;)<br><br></p>
 
 ###
 
